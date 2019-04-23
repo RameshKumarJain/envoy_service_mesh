@@ -54,6 +54,6 @@ Ensure that you have a recent version of the docker, docker-compose, and docker-
 Java control plane
 ------
 Sample java control plane main class code :
-https://github.com/RameshKumarJain/envoy_service_mesh/master/refrence_files/TestMain.java
+https://github.com/RameshKumarJain/envoy_service_mesh/blob/master/refrence_files/TestMain.java
 
 Above file contains ADS configuration of envoy front proxy and all envoy side car services. 
