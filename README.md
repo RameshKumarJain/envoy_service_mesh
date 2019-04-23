@@ -15,7 +15,7 @@ Envoy_front_proxy and all envoy side car services has dynamic configurations whi
 
 On envoy side car calling ADS will get its endpoints service address along with the external service endpoints.
 
-![Envoy Service Mesh](Envoy_Service_Mesh.png)
+![Envoy Service Mesh](Envoy%20Service%20Mesh.png)
 
 
 Start all containers of service envoy_service_mesh
